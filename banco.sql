@@ -1,4 +1,4 @@
-CREATE TABLE dados (
+CREATE TABLE data (
     ClientID int,
     Name varchar(50),
     Surname varchar(50),
